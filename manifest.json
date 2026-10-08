@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "mcVersion": "1.21.1",
+  "folders": [
+    "config",
+    "defaultconfigs",
+    "mods"
+  ]
+}
